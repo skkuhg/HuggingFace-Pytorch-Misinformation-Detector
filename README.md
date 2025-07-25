@@ -23,7 +23,7 @@ AI-powered misinformation detection and counter-narrative generation using Huggi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/skkuhg/huggingface-pytorch-misinformation-detector.git
+git clone https://github.com/skkuhg/HuggingFace-Pytorch-Misinformation-Detector.git
 cd huggingface-pytorch-misinformation-detector
 ```
 
